@@ -79,33 +79,7 @@ Users
 Orders
 Coupons
 Cart
-📂 Project Structure
-FoodProjectApp
-│
-├── backend
-│   ├── config
-│   ├── controllers
-│   ├── middlewares
-│   ├── models
-│   ├── routes
-│   ├── utils
-│   ├── app.js
-│   ├── server.js
-│   └── package.json
-│
-├── frontend
-│   ├── src
-│   │   ├── components
-│   │   ├── pages
-│   │   ├── redux
-│   │   ├── routes
-│   │   ├── services
-│   │   ├── utils
-│   │   └── App.jsx
-│   │
-│   └── package.json
-│
-└── README.md
+
 ⚙ Installation
 1. Clone Repository
 git clone https://github.com/yourusername/FoodProjectApp.git
